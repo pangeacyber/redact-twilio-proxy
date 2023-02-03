@@ -15,7 +15,7 @@
 <br />
 </p>
 
-# Pangea SMS Secure Audit Log Example
+# Pangea SMS Proxy that Redacts PII Example
 
 An SMS forwarding service that redacts sensitive or personally identifiable information (PII) between two parties in real-time with Pangea's ![Redact Service](https://pangea.cloud/services/redact/) Rulesets.
 

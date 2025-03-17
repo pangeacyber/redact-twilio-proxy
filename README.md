@@ -10,7 +10,6 @@
 <br />
 
 [![tutorial](https://img.shields.io/badge/documentation-pangea-blue?style=for-the-badge&labelColor=551B76)](https://www.twilio.com/blog/build-sms-proxy-redact-pii-from-sms-conversations-pangea-redact-service-python)
-[![Discord](https://img.shields.io/discord/1017567751818182786?color=%23551b76&label=Discord&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/z7yXhC7cQr)
 
 <br />
 </p>
